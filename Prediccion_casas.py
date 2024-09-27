@@ -9,7 +9,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 df = pd.read_csv('housing.csv')
 
 # Exploración de los primeros datos
-print(df.head())
+# print(df.head())
 # Importar librerías
 import pandas as pd
 import numpy as np
